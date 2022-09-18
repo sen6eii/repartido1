@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-size: 30px;
+    text-align: center;
+}
+
+div{
+    width: 500px;
+    padding-top: 150px;
+    margin: 0px auto;
+}
+
+input{
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h1{
+    margin-top: 50px;
+}
